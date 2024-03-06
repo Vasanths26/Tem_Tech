@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539130884965",
+    "project_id": "fir-21d33",
+    "storage_bucket": "fir-21d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539130884965:android:589c05c111755cf7be678c",
+        "android_client_info": {
+          "package_name": "com.example.temtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5Ma79lTN8YkHms4DWMxJ04FR_uNBDAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
